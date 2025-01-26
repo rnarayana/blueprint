@@ -1,0 +1,6 @@
+@BluePrintApi_HostAddress = http://localhost:5165
+
+GET {{BluePrintApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
